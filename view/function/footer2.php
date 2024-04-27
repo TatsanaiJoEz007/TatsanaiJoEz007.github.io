@@ -275,7 +275,7 @@
             Swal.fire({
                 position: 'center',
                 icon: 'error',
-                title: 'รหัสผ่านไม่ต้องกัน!!',
+                title: 'รหัสผ่านไม่ตรงกัน!!',
                 showConfirmButton: false,
                 timer: 1500
             })
