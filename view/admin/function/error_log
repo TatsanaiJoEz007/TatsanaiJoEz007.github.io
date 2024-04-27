@@ -1,0 +1,243 @@
+[22-Jan-2023 13:44:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'bigshrry'@'localhost' (using password: YES) in /home5/bigshrry/public_html/ecommerce/view/config/connect.php:6
+Stack trace:
+#0 /home5/bigshrry/public_html/ecommerce/view/config/connect.php(6): mysqli->__construct()
+#1 /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php(2): require_once('/home5/bigshrry...')
+#2 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/config/connect.php on line 6
+[22-Jan-2023 13:46:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'bigshrry'@'localhost' (using password: YES) in /home5/bigshrry/public_html/ecommerce/view/config/connect.php:6
+Stack trace:
+#0 /home5/bigshrry/public_html/ecommerce/view/config/connect.php(6): mysqli->__construct()
+#1 /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php(2): require_once('/home5/bigshrry...')
+#2 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/config/connect.php on line 6
+[22-Jan-2023 13:46:30 UTC] PHP Warning:  require_once(../../../config/connect.php): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 2
+[22-Jan-2023 13:46:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../config/connect.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:2
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 2
+[23-Jan-2023 08:48:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:52
+Stack trace:
+#0 /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php(52): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 52
+[23-Jan-2023 08:49:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:52
+Stack trace:
+#0 /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php(52): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 52
+[23-Jan-2023 09:13:01 UTC] PHP Warning:  Undefined array key "count" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 65
+[23-Jan-2023 16:45:33 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 68
+[23-Jan-2023 16:45:33 Asia/bangkok] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:71
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 71
+[23-Jan-2023 16:45:52 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 68
+[23-Jan-2023 16:45:52 Asia/bangkok] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:71
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 71
+[23-Jan-2023 16:45:52 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 68
+[23-Jan-2023 16:45:52 Asia/bangkok] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:71
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 71
+[23-Jan-2023 19:32:55 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 68
+[23-Jan-2023 19:32:55 Asia/bangkok] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:71
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 71
+[23-Jan-2023 19:33:59 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 68
+[23-Jan-2023 19:33:59 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 70
+[23-Jan-2023 19:33:59 Asia/bangkok] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:71
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 71
+[23-Jan-2023 19:39:35 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 68
+[23-Jan-2023 19:39:35 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 70
+[23-Jan-2023 19:39:35 Asia/bangkok] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:71
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 71
+[23-Jan-2023 19:40:15 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 68
+[23-Jan-2023 19:40:15 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 70
+[23-Jan-2023 19:40:15 Asia/bangkok] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:71
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 71
+[23-Jan-2023 19:41:06 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 68
+[23-Jan-2023 19:41:06 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 70
+[23-Jan-2023 19:41:06 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 71
+[23-Jan-2023 19:41:19 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 68
+[23-Jan-2023 19:41:19 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 70
+[23-Jan-2023 19:41:19 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 71
+[23-Jan-2023 19:41:40 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 68
+[23-Jan-2023 19:41:40 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 70
+[23-Jan-2023 19:41:40 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 71
+[23-Jan-2023 19:42:00 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 68
+[23-Jan-2023 19:42:00 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 70
+[23-Jan-2023 19:42:00 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 71
+[23-Jan-2023 19:44:30 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 68
+[23-Jan-2023 19:44:30 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 70
+[23-Jan-2023 19:44:30 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 71
+[23-Jan-2023 19:54:43 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 68
+[23-Jan-2023 19:54:43 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 68
+[23-Jan-2023 19:54:57 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 68
+[23-Jan-2023 19:54:57 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 68
+[23-Jan-2023 19:55:12 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 68
+[23-Jan-2023 19:55:12 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 68
+[23-Jan-2023 19:59:16 Asia/bangkok] PHP Warning:  move_uploaded_file(../assets/upload/รัศมี (3).png): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 83
+[23-Jan-2023 19:59:16 Asia/bangkok] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php3c2QJU' to '../assets/upload/รัศมี (3).png' in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 83
+[23-Jan-2023 20:00:14 Asia/bangkok] PHP Warning:  move_uploaded_file(../assets/upload/รัศมี (2).png): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 83
+[23-Jan-2023 20:00:14 Asia/bangkok] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpoojdT8' to '../assets/upload/รัศมี (2).png' in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 83
+[23-Jan-2023 20:00:45 Asia/bangkok] PHP Warning:  move_uploaded_file(../assets/upload/รัศมี (2).png): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 84
+[23-Jan-2023 20:00:45 Asia/bangkok] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpIB3jgn' to '../assets/upload/รัศมี (2).png' in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 84
+[23-Jan-2023 20:01:01 Asia/bangkok] PHP Warning:  move_uploaded_file(../assets/upload/รัศมี (2).png): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 84
+[23-Jan-2023 20:01:01 Asia/bangkok] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpX4MJnF' to '../assets/upload/รัศมี (2).png' in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 84
+[23-Jan-2023 20:01:05 Asia/bangkok] PHP Warning:  move_uploaded_file(../assets/upload/รัศมี (2).png): Failed to open stream: No such file or directory in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 84
+[23-Jan-2023 20:01:05 Asia/bangkok] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpran1Oo' to '../assets/upload/รัศมี (2).png' in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 84
+[23-Jan-2023 20:08:05 Asia/bangkok] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:84
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 84
+[23-Jan-2023 21:39:39 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 100
+[23-Jan-2023 21:39:46 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 100
+[23-Jan-2023 21:41:34 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 100
+[23-Jan-2023 21:41:57 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 100
+[23-Jan-2023 21:43:27 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 100
+[23-Jan-2023 21:44:03 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 100
+[23-Jan-2023 21:44:49 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 100
+[23-Jan-2023 23:30:17 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[23-Jan-2023 23:30:17 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[23-Jan-2023 23:30:17 Asia/bangkok] PHP Warning:  Undefined array key "old_img" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 92
+[23-Jan-2023 23:31:30 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[23-Jan-2023 23:31:30 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[23-Jan-2023 23:31:30 Asia/bangkok] PHP Warning:  Undefined array key "old_img" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 92
+[23-Jan-2023 23:31:52 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[23-Jan-2023 23:31:52 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[23-Jan-2023 23:31:52 Asia/bangkok] PHP Warning:  Undefined array key "old_img" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 94
+[23-Jan-2023 23:33:19 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[23-Jan-2023 23:33:19 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[23-Jan-2023 23:33:19 Asia/bangkok] PHP Warning:  Undefined array key "old_img" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 94
+[23-Jan-2023 23:36:26 Asia/bangkok] PHP Warning:  unlink(../assets/): Is a directory in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 92
+[23-Jan-2023 23:36:43 Asia/bangkok] PHP Warning:  unlink(../assets/): Is a directory in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 92
+[23-Jan-2023 23:37:35 Asia/bangkok] PHP Warning:  unlink(assets/upload/27634-รัศมี-(1).png): No such file or directory in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 92
+[23-Jan-2023 23:38:39 Asia/bangkok] PHP Warning:  unlink(assets/upload/57873-รัศมี-(1).png): No such file or directory in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 92
+[23-Jan-2023 23:41:39 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[23-Jan-2023 23:41:39 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[23-Jan-2023 23:42:29 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[23-Jan-2023 23:42:29 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[23-Jan-2023 23:43:07 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[23-Jan-2023 23:43:07 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[23-Jan-2023 23:43:35 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[23-Jan-2023 23:43:35 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[23-Jan-2023 23:44:19 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[23-Jan-2023 23:44:19 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[23-Jan-2023 23:44:40 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[23-Jan-2023 23:44:40 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[23-Jan-2023 23:44:57 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[23-Jan-2023 23:44:57 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[23-Jan-2023 23:45:33 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[23-Jan-2023 23:45:33 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[24-Jan-2023 00:18:29 Asia/bangkok] PHP Warning:  Undefined array key "file" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[24-Jan-2023 00:18:29 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 69
+[27-Jan-2023 23:22:36 Asia/bangkok] PHP Warning:  Undefined variable $response in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 118
+[27-Jan-2023 23:36:14 Asia/bangkok] PHP Warning:  Undefined variable $response in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 118
+[30-Jan-2023 20:33:08 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 133
+[30-Jan-2023 20:33:08 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 137
+[30-Jan-2023 20:33:08 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 139
+[30-Jan-2023 20:33:08 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 141
+[30-Jan-2023 20:33:08 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 141
+[30-Jan-2023 20:33:08 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 141
+[30-Jan-2023 20:33:08 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 141
+[30-Jan-2023 20:33:08 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 141
+[30-Jan-2023 20:33:08 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 141
+[30-Jan-2023 20:33:08 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 141
+[30-Jan-2023 20:33:08 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 141
+[30-Jan-2023 13:53:52 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting ")" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 199
+[30-Jan-2023 13:53:59 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting ")" in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 199
+[30-Jan-2023 20:54:14 Asia/bangkok] PHP Warning:  Undefined variable $row in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 196
+[30-Jan-2023 20:54:14 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 196
+[30-Jan-2023 20:54:14 Asia/bangkok] PHP Warning:  foreach() argument must be of type array|object, null given in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 198
+[30-Jan-2023 20:54:14 Asia/bangkok] PHP Warning:  Undefined variable $array in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 201
+[30-Jan-2023 20:54:18 Asia/bangkok] PHP Warning:  Undefined variable $row in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 196
+[30-Jan-2023 20:54:18 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 196
+[30-Jan-2023 20:54:18 Asia/bangkok] PHP Warning:  foreach() argument must be of type array|object, null given in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 198
+[30-Jan-2023 20:54:18 Asia/bangkok] PHP Warning:  Undefined variable $array in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 201
+[30-Jan-2023 20:54:21 Asia/bangkok] PHP Warning:  Undefined variable $row in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 196
+[30-Jan-2023 20:54:21 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 196
+[30-Jan-2023 20:54:21 Asia/bangkok] PHP Warning:  foreach() argument must be of type array|object, null given in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 198
+[30-Jan-2023 20:54:21 Asia/bangkok] PHP Warning:  Undefined variable $array in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 201
+[30-Jan-2023 20:55:06 Asia/bangkok] PHP Warning:  Undefined variable $row in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 196
+[30-Jan-2023 20:55:06 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 196
+[30-Jan-2023 20:55:06 Asia/bangkok] PHP Warning:  foreach() argument must be of type array|object, null given in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 198
+[30-Jan-2023 20:55:06 Asia/bangkok] PHP Warning:  Undefined variable $array in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 201
+[30-Jan-2023 20:55:45 Asia/bangkok] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:199
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 199
+[30-Jan-2023 20:55:46 Asia/bangkok] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:199
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 199
+[30-Jan-2023 20:55:46 Asia/bangkok] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:199
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 199
+[30-Jan-2023 20:56:59 Asia/bangkok] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:199
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 199
+[30-Jan-2023 20:58:45 Asia/bangkok] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:199
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 199
+[30-Jan-2023 20:59:21 Asia/bangkok] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:199
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 199
+[30-Jan-2023 20:59:21 Asia/bangkok] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:199
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 199
+[30-Jan-2023 21:31:16 Asia/bangkok] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:223
+Stack trace:
+#0 /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php(223): number_format()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 223
+[30-Jan-2023 21:31:18 Asia/bangkok] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:223
+Stack trace:
+#0 /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php(223): number_format()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 223
+[30-Jan-2023 21:31:19 Asia/bangkok] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:223
+Stack trace:
+#0 /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php(223): number_format()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 223
+[30-Jan-2023 21:31:19 Asia/bangkok] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:223
+Stack trace:
+#0 /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php(223): number_format()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 223
+[30-Jan-2023 21:31:19 Asia/bangkok] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:223
+Stack trace:
+#0 /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php(223): number_format()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 223
+[30-Jan-2023 21:31:19 Asia/bangkok] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:223
+Stack trace:
+#0 /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php(223): number_format()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 223
+[30-Jan-2023 21:31:19 Asia/bangkok] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:223
+Stack trace:
+#0 /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php(223): number_format()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 223
+[30-Jan-2023 21:31:20 Asia/bangkok] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php:223
+Stack trace:
+#0 /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php(223): number_format()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/admin/function/action.php on line 223
+[14-Feb-2023 13:01:06 Asia/bangkok] PHP Warning:  Undefined variable $delivery in /home5/bigshrry/public_html/Ecommerce/view/admin/function/mypdf.php on line 70
+[14-Feb-2023 13:01:06 Asia/bangkok] PHP Warning:  Undefined variable $tatol in /home5/bigshrry/public_html/Ecommerce/view/admin/function/mypdf.php on line 71

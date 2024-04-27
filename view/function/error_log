@@ -1,0 +1,199 @@
+[24-Jan-2023 21:48:56 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home5/bigshrry/public_html/ecommerce/view/function/action.php:5
+Stack trace:
+#0 /home5/bigshrry/public_html/ecommerce/view/function/action.php(5): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 5
+[24-Jan-2023 21:48:57 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home5/bigshrry/public_html/ecommerce/view/function/action.php:5
+Stack trace:
+#0 /home5/bigshrry/public_html/ecommerce/view/function/action.php(5): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 5
+[24-Jan-2023 21:48:57 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home5/bigshrry/public_html/ecommerce/view/function/action.php:5
+Stack trace:
+#0 /home5/bigshrry/public_html/ecommerce/view/function/action.php(5): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 5
+[24-Jan-2023 21:49:02 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home5/bigshrry/public_html/ecommerce/view/function/action.php:5
+Stack trace:
+#0 /home5/bigshrry/public_html/ecommerce/view/function/action.php(5): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 5
+[24-Jan-2023 21:49:02 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home5/bigshrry/public_html/ecommerce/view/function/action.php:5
+Stack trace:
+#0 /home5/bigshrry/public_html/ecommerce/view/function/action.php(5): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 5
+[24-Jan-2023 21:49:03 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home5/bigshrry/public_html/ecommerce/view/function/action.php:5
+Stack trace:
+#0 /home5/bigshrry/public_html/ecommerce/view/function/action.php(5): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 5
+[24-Jan-2023 21:49:08 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home5/bigshrry/public_html/ecommerce/view/function/action.php:5
+Stack trace:
+#0 /home5/bigshrry/public_html/ecommerce/view/function/action.php(5): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 5
+[24-Jan-2023 14:55:02 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 46
+[24-Jan-2023 14:55:04 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 46
+[24-Jan-2023 14:55:05 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 46
+[27-Jan-2023 21:07:42 Asia/bangkok] PHP Warning:  Undefined array key "product" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 85
+[27-Jan-2023 21:07:42 Asia/bangkok] PHP Warning:  Undefined array key "img" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 86
+[27-Jan-2023 21:07:42 Asia/bangkok] PHP Warning:  Undefined array key "price" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 87
+[27-Jan-2023 21:07:42 Asia/bangkok] PHP Warning:  Undefined array key "delivery" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 88
+[27-Jan-2023 21:11:02 Asia/bangkok] PHP Warning:  Undefined array key "qty" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 81
+[27-Jan-2023 21:11:35 Asia/bangkok] PHP Warning:  Undefined array key "qty" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 81
+[27-Jan-2023 21:12:25 Asia/bangkok] PHP Warning:  Undefined array key "qty" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 81
+[27-Jan-2023 21:14:26 Asia/bangkok] PHP Warning:  Undefined array key "qty" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 86
+[27-Jan-2023 21:14:57 Asia/bangkok] PHP Warning:  Undefined array key "qty" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 82
+[27-Jan-2023 14:15:41 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 2
+[27-Jan-2023 21:15:41 Asia/bangkok] PHP Warning:  Undefined array key "qty" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 82
+[27-Jan-2023 14:15:43 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 2
+[27-Jan-2023 21:15:43 Asia/bangkok] PHP Warning:  Undefined array key "qty" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 82
+[27-Jan-2023 14:15:54 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 2
+[27-Jan-2023 21:16:03 Asia/bangkok] PHP Warning:  Undefined array key "qty" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 82
+[27-Jan-2023 21:16:21 Asia/bangkok] PHP Warning:  Undefined array key "qty" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 82
+[27-Jan-2023 21:17:51 Asia/bangkok] PHP Warning:  Undefined array key "qty" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 82
+[27-Jan-2023 21:17:55 Asia/bangkok] PHP Warning:  Undefined array key "qty" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 82
+[27-Jan-2023 21:17:58 Asia/bangkok] PHP Warning:  Undefined array key "qty" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 82
+[28-Jan-2023 09:30:37 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 61
+[28-Jan-2023 09:30:37 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 88
+[28-Jan-2023 09:30:37 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 89
+[28-Jan-2023 09:30:37 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 90
+[28-Jan-2023 09:30:37 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 91
+[28-Jan-2023 09:30:37 Asia/bangkok] PHP Warning:  Trying to access array offset on value of type null in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 92
+[28-Jan-2023 09:30:43 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 61
+[28-Jan-2023 09:30:43 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 66
+[28-Jan-2023 09:30:43 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 79
+[28-Jan-2023 09:30:43 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 81
+[28-Jan-2023 09:31:08 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 61
+[28-Jan-2023 09:31:08 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 66
+[28-Jan-2023 09:31:08 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 79
+[28-Jan-2023 09:31:08 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 81
+[28-Jan-2023 09:31:16 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 61
+[28-Jan-2023 09:31:16 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 66
+[28-Jan-2023 09:31:16 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 79
+[28-Jan-2023 09:31:16 Asia/bangkok] PHP Warning:  Undefined array key "id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 81
+[28-Jan-2023 12:14:34 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::qeury() in /home5/bigshrry/public_html/ecommerce/view/function/action.php:113
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 113
+[28-Jan-2023 12:15:22 Asia/bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::qeury() in /home5/bigshrry/public_html/ecommerce/view/function/action.php:113
+Stack trace:
+#0 {main}
+  thrown in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 113
+[28-Jan-2023 12:42:23 Asia/bangkok] PHP Warning:  Undefined array key "pass" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 124
+[28-Jan-2023 12:42:48 Asia/bangkok] PHP Warning:  Undefined array key "pass" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 124
+[28-Jan-2023 12:43:06 Asia/bangkok] PHP Warning:  Undefined array key "pass" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 124
+[28-Jan-2023 12:43:20 Asia/bangkok] PHP Warning:  Undefined array key "pass" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 124
+[28-Jan-2023 12:43:30 Asia/bangkok] PHP Warning:  Undefined array key "pass" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 124
+[28-Jan-2023 12:44:32 Asia/bangkok] PHP Warning:  Undefined array key "pass" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 124
+[28-Jan-2023 12:44:33 Asia/bangkok] PHP Warning:  Undefined array key "pass" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 124
+[28-Jan-2023 12:44:43 Asia/bangkok] PHP Warning:  Undefined array key "pass" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 124
+[28-Jan-2023 12:45:51 Asia/bangkok] PHP Warning:  Undefined array key "user_password" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 138
+[28-Jan-2023 12:46:16 Asia/bangkok] PHP Warning:  Undefined array key "user_password" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 138
+[28-Jan-2023 12:46:34 Asia/bangkok] PHP Warning:  Undefined array key "user_password" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 138
+[28-Jan-2023 12:46:36 Asia/bangkok] PHP Warning:  Undefined array key "user_password" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 138
+[28-Jan-2023 12:46:36 Asia/bangkok] PHP Warning:  Undefined array key "user_password" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 138
+[28-Jan-2023 12:50:22 Asia/bangkok] PHP Warning:  Undefined array key "user_password" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 138
+[28-Jan-2023 13:00:35 Asia/bangkok] PHP Warning:  Undefined array key "user_password" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 137
+[28-Jan-2023 13:00:37 Asia/bangkok] PHP Warning:  Undefined array key "user_password" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 137
+[28-Jan-2023 13:00:38 Asia/bangkok] PHP Warning:  Undefined array key "user_password" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 137
+[28-Jan-2023 13:01:20 Asia/bangkok] PHP Warning:  Undefined array key "user_password" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 137
+[28-Jan-2023 13:02:32 Asia/bangkok] PHP Warning:  Undefined array key "user_password" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 137
+[28-Jan-2023 13:03:15 Asia/bangkok] PHP Warning:  Undefined array key "user_password" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 137
+[28-Jan-2023 15:55:47 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 169
+[28-Jan-2023 15:55:47 Asia/bangkok] PHP Warning:  Undefined array key "shpping_cart" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 174
+[28-Jan-2023 15:55:47 Asia/bangkok] PHP Warning:  foreach() argument must be of type array|object, null given in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 174
+[28-Jan-2023 15:57:38 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 169
+[28-Jan-2023 15:57:38 Asia/bangkok] PHP Warning:  Undefined array key "shpping_cart" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 174
+[28-Jan-2023 15:57:38 Asia/bangkok] PHP Warning:  foreach() argument must be of type array|object, null given in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 174
+[28-Jan-2023 16:06:53 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 185
+[28-Jan-2023 16:06:53 Asia/bangkok] PHP Warning:  Undefined array key "shpping_cart" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 190
+[28-Jan-2023 16:06:53 Asia/bangkok] PHP Warning:  foreach() argument must be of type array|object, null given in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 190
+[28-Jan-2023 16:09:30 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 185
+[28-Jan-2023 16:09:30 Asia/bangkok] PHP Warning:  Undefined array key "shpping_cart" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 190
+[28-Jan-2023 16:09:30 Asia/bangkok] PHP Warning:  foreach() argument must be of type array|object, null given in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 190
+[28-Jan-2023 16:10:15 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 185
+[28-Jan-2023 16:10:15 Asia/bangkok] PHP Warning:  Undefined array key "shpping_cart" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 190
+[28-Jan-2023 16:10:15 Asia/bangkok] PHP Warning:  foreach() argument must be of type array|object, null given in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 190
+[28-Jan-2023 16:10:18 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 185
+[28-Jan-2023 16:10:18 Asia/bangkok] PHP Warning:  Undefined array key "shpping_cart" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 190
+[28-Jan-2023 16:10:18 Asia/bangkok] PHP Warning:  foreach() argument must be of type array|object, null given in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 190
+[28-Jan-2023 16:10:42 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 185
+[28-Jan-2023 16:10:42 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 192
+[28-Jan-2023 16:12:06 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 185
+[28-Jan-2023 16:12:06 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 192
+[28-Jan-2023 16:12:06 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 192
+[30-Jan-2023 10:48:38 Asia/bangkok] PHP Warning:  Undefined array key "user_password" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 155
+[30-Jan-2023 20:24:00 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 186
+[30-Jan-2023 20:24:00 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 193
+[30-Jan-2023 20:24:51 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 186
+[30-Jan-2023 20:24:51 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 193
+[30-Jan-2023 20:24:59 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 186
+[30-Jan-2023 20:24:59 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 193
+[30-Jan-2023 20:25:43 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 186
+[30-Jan-2023 20:25:43 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 193
+[30-Jan-2023 20:54:50 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 186
+[30-Jan-2023 20:54:50 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 193
+[30-Jan-2023 21:28:37 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 186
+[30-Jan-2023 21:28:37 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 193
+[30-Jan-2023 21:28:37 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 193
+[30-Jan-2023 21:34:52 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 186
+[30-Jan-2023 21:34:52 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 193
+[30-Jan-2023 21:34:52 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 193
+[30-Jan-2023 21:35:12 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 186
+[30-Jan-2023 21:35:12 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 193
+[30-Jan-2023 21:35:12 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 193
+[30-Jan-2023 21:36:32 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 186
+[30-Jan-2023 21:36:32 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 193
+[30-Jan-2023 21:36:32 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 193
+[30-Jan-2023 21:39:05 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 183
+[30-Jan-2023 21:39:05 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 193
+[30-Jan-2023 21:39:05 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 193
+[30-Jan-2023 21:40:04 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 183
+[30-Jan-2023 21:40:04 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 193
+[30-Jan-2023 21:40:04 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 193
+[30-Jan-2023 21:41:31 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 183
+[30-Jan-2023 21:41:31 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 193
+[30-Jan-2023 21:41:31 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 193
+[30-Jan-2023 21:42:00 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 183
+[30-Jan-2023 21:42:00 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 193
+[30-Jan-2023 21:42:00 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 193
+[30-Jan-2023 21:43:40 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 186
+[30-Jan-2023 21:43:40 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 193
+[30-Jan-2023 21:43:40 Asia/bangkok] PHP Warning:  Undefined array key "user_id" in /home5/bigshrry/public_html/ecommerce/view/function/action.php on line 193
+[14-Feb-2023 13:34:26 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bigshrry_ecommerceV4.tb_tokenline' doesn't exist in /home5/bigshrry/public_html/Ecommerce/view/function/action.php:213
+Stack trace:
+#0 /home5/bigshrry/public_html/Ecommerce/view/function/action.php(213): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/Ecommerce/view/function/action.php on line 213
+[14-Feb-2023 13:34:31 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bigshrry_ecommerceV4.tb_tokenline' doesn't exist in /home5/bigshrry/public_html/Ecommerce/view/function/action.php:213
+Stack trace:
+#0 /home5/bigshrry/public_html/Ecommerce/view/function/action.php(213): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/Ecommerce/view/function/action.php on line 213
+[14-Feb-2023 13:34:32 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bigshrry_ecommerceV4.tb_tokenline' doesn't exist in /home5/bigshrry/public_html/Ecommerce/view/function/action.php:213
+Stack trace:
+#0 /home5/bigshrry/public_html/Ecommerce/view/function/action.php(213): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/Ecommerce/view/function/action.php on line 213
+[14-Feb-2023 13:34:32 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bigshrry_ecommerceV4.tb_tokenline' doesn't exist in /home5/bigshrry/public_html/Ecommerce/view/function/action.php:213
+Stack trace:
+#0 /home5/bigshrry/public_html/Ecommerce/view/function/action.php(213): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/Ecommerce/view/function/action.php on line 213
+[14-Feb-2023 13:34:32 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bigshrry_ecommerceV4.tb_tokenline' doesn't exist in /home5/bigshrry/public_html/Ecommerce/view/function/action.php:213
+Stack trace:
+#0 /home5/bigshrry/public_html/Ecommerce/view/function/action.php(213): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/Ecommerce/view/function/action.php on line 213
+[14-Feb-2023 13:34:33 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bigshrry_ecommerceV4.tb_tokenline' doesn't exist in /home5/bigshrry/public_html/Ecommerce/view/function/action.php:213
+Stack trace:
+#0 /home5/bigshrry/public_html/Ecommerce/view/function/action.php(213): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/Ecommerce/view/function/action.php on line 213
+[14-Feb-2023 13:34:47 Asia/bangkok] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'bigshrry_ecommerceV4.tb_tokenline' doesn't exist in /home5/bigshrry/public_html/Ecommerce/view/function/action.php:213
+Stack trace:
+#0 /home5/bigshrry/public_html/Ecommerce/view/function/action.php(213): mysqli->query()
+#1 {main}
+  thrown in /home5/bigshrry/public_html/Ecommerce/view/function/action.php on line 213
